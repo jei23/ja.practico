@@ -15,3 +15,4 @@ function sumarInputValues(event){
   Preslot.innerText = "usuario:" + '@' + sumaInput;
 }
 
+
